@@ -32,7 +32,13 @@ This was the hard part. Routed the video wire from the dome light housing, acros
 
 Removed a bunch of rear plastic panels, around the C pillar and on the inside of the tailgate. Routed the wire to where a flexible rubber sheath houses cabling into the tailgate. It took a darning needle and a second set of hands to fish the big RCA plug through that spot, but then I was home free to route into the tailgate.
 
-Rather than drill a fresh hole in the bodywork, I carefully analyzed the rear trim. I removed the center trim panel (where the subaru logo is) - it's held on by two weatherproof plastic clips and FOUR bolts! Unnecessary! One of them was even half-hidden behind the rear wiper motor. What a pain in the ass. So I removed that bolt permanently. The bolt hole is protected by the plastic trim - still clean under there after 10 years! That's the spot I'm using to route the camera cabling into the interior. Hogged it out to 1/2" and squeezed the cables through (barely). In the process, I over-drilled the hole, and bound my bit on the wiper motor housing... and the bit snapped off. Dammit.
+### Camera
+
+Need to route the camera cabling from the exterior of the car to the interior.
+
+Rather than drill a fresh hole in the bodywork, I carefully analyzed the rear trim. I removed the center trim panel (where the subaru logo is) - it's held on by two weatherproof plastic clips and FOUR bolts! Unnecessary! One of them was even half-hidden behind the rear wiper motor. What a pain in the ass. So I removed that particular bolt permanently. The bolt hole is well protected by the plastic trim - still clean under there after 10 years.
+
+That's the spot I'm using to route the camera cabling into the interior. Hogged it out to 1/2" and squeezed the cables through (barely). In the process, I over-drilled the hole, and bound my bit on the wiper motor housing... and the bit snapped off. Dammit. See photo.
 
 Spliced the rear power connector to the passenger reverse light (two bare wires, not a cable housing like the driver side). I'm lucky the reverse lights are in the tailgate, and not on the body like the taillights. Were that the case, I'd have to route up and around... yuck.
 
