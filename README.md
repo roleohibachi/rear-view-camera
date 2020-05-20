@@ -1,5 +1,5 @@
 # rear-view-camera
-install a rear view camera in Bru
+install a rear view camera in "Bru", my 2010 Subaru Impreza (base model)
 ## 17 May 2020: Bench test
 
 - There are two components. Mirror (with display) and Camera.
