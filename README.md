@@ -38,4 +38,4 @@ Spliced the rear power connector to the passenger reverse light (two bare wires,
 
 Plugged in, tested working! Replaced all the panels and had a beer.
 
-TODO: put a raspberry pi on the second video channel. Connect it to OBD2 for an in-flight dashboard. Put some entertainment on there, kinda like a drive-in movie. I'd love to see a shell on my mirror just for nerd cred!
+TODO: put a raspberry pi on the second video channel. Connect it to OBD2 for an in-flight dashboard. Put some entertainment on there, kinda like a drive-in movie. I'd love to see a shell on my mirror just for nerd cred! TRRS4 to RCA cable is in the mail.
